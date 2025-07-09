@@ -1,0 +1,28 @@
+# Resilient Email Sending Service
+
+This is a backend service built in TypeScript that sends emails using multiple providers with retry logic and rate limiting.
+
+---
+
+## 🛠 Features
+
+- Multiple email providers (mocked)
+- Retry logic with exponential backoff
+- Rate limiting
+- Status tracking
+- Unit tests using Jest
+
+---
+
+## 📦 Requirements
+
+- Node.js
+- npm
+
+---
+
+## 🚀 Setup Instructions
+
+```bash
+# Install dependencies
+npm install
